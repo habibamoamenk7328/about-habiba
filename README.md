@@ -26,4 +26,5 @@ Habiba is currently a junior. She lives in Brooklyn.
     * Galland
 8. Physics
     * Terzano
-[click here to go to here site that is filled with all of her projects](https://sites.google.com/a/hstat.org/habibamoamenk7328sep10/)  
+
+[click here to go to her site that is filled with all of her projects](https://sites.google.com/a/hstat.org/habibamoamenk7328sep10/)  
