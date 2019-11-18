@@ -30,5 +30,5 @@ Habiba is currently a junior. She lives in Brooklyn.
 
 [click here to go to her site that is filled with all of her projects](https://sites.google.com/a/hstat.org/habibamoamenk7328sep10/)  
 =======
-hi i am habiba
+
 >>>>>>> 7f47c31c3309a6b1e09a772644f52af7a88a594b
